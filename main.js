@@ -1,1 +1,0 @@
-const mainCode = () => "const a = 5; const b = 10; return 2 * a + 10 * b;";
